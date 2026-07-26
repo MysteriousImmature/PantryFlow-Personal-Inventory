@@ -43,7 +43,7 @@ No framework, package manager, build step, or third-party dependency is required
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pantryflow.git
+git clone https://github.com/MysteriousImmature/PantryFlow-Personal-Inventory-web.git
 cd pantryflow
 ```
 
